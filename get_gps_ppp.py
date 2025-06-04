@@ -1,8 +1,8 @@
 #!/bin/env -S python3 -u
 
 #################################################
-# get_gps.ppp.py v.20221014.1
-# copyright 2022 John Ackermann N8UR jra@febo.com
+# get_gps.ppp.py v.20250604.1
+# copyright 2025 John Ackermann N8UR jra@febo.com
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

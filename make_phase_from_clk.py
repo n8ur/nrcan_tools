@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
+
 #####################################################################
-# make_phase_from_clk.py v.20220815.1
-# copyright 2022 John Ackermann N8UR jra@febo.com
+# make_phase_from_clk.py v.20250604.1
+# copyright 2025 John Ackermann N8UR jra@febo.com
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by

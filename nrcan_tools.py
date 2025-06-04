@@ -1,8 +1,8 @@
 #!/usr/bin/env -S python3 -u
 
 #################################################
-# nrcan_tools.py v.20221209.1
-# copyright 2022 John Ackermann N8UR jra@febo.com
+# nrcan_tools.py v.20250604.1
+# copyright 2025 John Ackermann N8UR jra@febo.com
 #
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
@@ -13,7 +13,7 @@
 # but WITHOUT ANY WARRANTY; without even the implied warranty of
 # MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 # GNU General Public License for more details.
-#
+
 
 import os
 import sys
