@@ -1,0 +1,12 @@
+[Unit]
+Description=Runs shell script daily to get GPS ftp files
+Wants=nrcan.timer
+
+[Service]
+Type=oneshot
+User=jra
+ExecStart=/bin/bash /usr/local/bin/nrcan.sh
+
+[Install]
+WantedBy=multi-user.target
+
